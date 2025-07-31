@@ -37,9 +37,6 @@
     "base-64": "^1.0.0",
     "jsonapi-fractal": "^2.3.1"
   },
-  "optionalDependencies": {
-    "openid-client": "^5.4.0"
-  },
   "devDependencies": {
     "@types/base-64": "^1.0.2",
     "@types/jest": "^29.5.12",
